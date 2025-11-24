@@ -37,12 +37,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/michelly-balbino-ab40122b4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 <div style="font-size: 14px; line-height: 1.6;">
     <p>🌸 Thank you for visiting my profile!</p>
     <p>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა  ੈ✩‧₊</p>  
